@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b61a66f12318b38088f4cf85",
+  "owner": "kcmgexnmk",
+  "repo": "page-deb7522e665903c332a00263",
+  "title": "小飞象(Blizzard)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "deb7522e665903c332a00263",
+      "a": "小飞象(Blizzard)",
+      "b": "稳定全球clash加速器",
+      "entity": "小飞象(Blizzard)",
+      "brand": "小飞象(Blizzard)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6318ccf314899c21cdd2eee7e248c54edd941b99ff0eef600626442176b179f7",
+      "content": {
+        "primary_entity": "小飞象(Blizzard)",
+        "keyword1": "小飞象(Blizzard)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，小飞象(Blizzard)为不同设备规模提供分层订阅选择，基础版适合个人单机日常使用，旗舰版面向多设备与流媒体需求，团队版则覆盖小型协作场景。客户端方面，Clash 支持订阅链接导入与规则分流，用户可依照所选套餐的流量额度、设备上限和节点池类型，匹配契合自身使用强度的方案。",
+          "AI_HERO_SUBTITLE": "小飞象(Blizzard)订阅选型指南",
+          "AI_HERO_INTRO": "小飞象(Blizzard)提供从个人到团队的多档订阅方案，围绕流量额度、设备数量与节点类型划分。用户可结合 Clash 客户端的使用习惯，挑选基础版、旗舰版或团队版，满足日常浏览、流媒体与协作加速等场景。",
+          "AI_VISUAL_TITLE": "小飞象(Blizzard)套餐一览",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "流量额度 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备在线",
+          "AI_FEATURES_TITLE": "功能与选择要点",
+          "AI_FEATURES_INTRO": "按设备规模与流量需求匹配套餐，可减少资源闲置。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "按流量额度选档",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量按需挑选。",
+          "AI_FEATURE_TITLE_3": "按周期结算",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "Clash 客户端在桌面与移动端均有对应版本，用户可依设备平台选择适配的客户端导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别约 ¥150、¥350、¥850，可依设备数量与流量需求对照选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端订阅导入，依次完成下列步骤。",
+          "AI_STEP_TITLE_1": "选择订阅套餐",
+          "AI_STEP_TEXT_1": "对照流量额度与设备上限，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，了解订阅所需条件。",
+          "AI_STEP_TITLE_3": "导入并配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端文档，将订阅链接填入 Clash 配置文件。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小飞象(Blizzard)套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数与每月流量需求选择：3 台设备选基础版，5 台设备且需要流媒体与专线选旗舰版，20 台设备或协作场景选团队版。",
+          "AI_FAQ_QUESTION_2": "Clash 客户端如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "在 Clash 客户端配置页面找到订阅导入入口，粘贴订阅链接后更新配置，客户端会读取节点与规则信息。具体路径可参照所选客户端版本的文档。",
+          "AI_FAQ_QUESTION_3": "一个订阅可以多少台设备使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备共用时建议按实际终端数量选择对应档位。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按 ¥15、¥35、¥85 逐月结算，年付分别约 ¥150、¥350、¥850。长期使用可选年付，短期体验可选月付。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "可在下一计费周期恢复额度，或提前升级到更高流量的套餐。旗舰版与团队版的流量额度分别为 300GB 和 1000GB，适合更高强度的使用。",
+          "AI_CLOSING_TITLE": "按需选档更省心",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求，选择合适的小飞象(Blizzard)套餐并完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--v2box-h02iv96g.com",
+    "host": "xn--v2box-h02iv96g.com"
+  },
+  "file_hashes": {
+    "index.html": "e2bd39f23a1536d8f3dac959799e0830002132193761478b1e534c446928b5f3",
+    "sitemap.xml": "9711e0e6f486297872bb05373132a083f08563547913ffb740402598d43a3c20",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9610ae701b50973a2872d10dee0f1ef886583901c39c4ff88c116273d58cd7bd",
+    "robots.txt": "b8209fbed6002d8032bcc0c9ff5e97ab61474cad7accb5483b6eefda03d9ee83",
+    "ca33c9649f9ce305f007b5a843c2c199.txt": "a50ddf3af10f6a2b0183f196eb45d550f755451a39fe149d9f190024433855f7"
+  },
+  "revision": "6751bc898e342ee6fc2eb237a311b047e9f90fc795874c395ee9c51ead548a26"
+}
